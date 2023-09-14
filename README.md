@@ -82,4 +82,4 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 <hr/>
-Made with ❤ by Flutter team at <a href="https://appinio.app">Appinio GmbH</a>
+Special Thanks to Flutter team at <a href="https://appinio.app">Appinio GmbH</a> 
