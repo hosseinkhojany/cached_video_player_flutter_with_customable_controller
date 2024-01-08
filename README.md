@@ -6,7 +6,7 @@ This package wraps the official video_player package by flutter and extends it w
 
 ## Top Features
 
-- Caching video(if a chunk of video is exist play or not download a chunk and play - Download&Play)
+- Caching video(if a chunk of video is exist playing it or not download a chunk and play it - Download&Play)
 - Seek forward and backward
 - Fullscreen Mode
 - Native controls and fullscreen for web apps
